@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.KCiTunesAlbums" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/pink</item>
+        <item name="colorPrimaryDark">@color/background</item>
+        <item name="colorAccent">@color/pink</item>
+    </style>
+</resources>

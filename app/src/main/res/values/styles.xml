@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RegularFont" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/poppins_regular</item>
+    </style>
+
+    <style name="BoldFont" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/poppins_bold</item>
+    </style>
+
+    <style name="SemiboldFont" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/poppins_semibold</item>
+    </style>
+
+    <style name="LightFont" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/poppins_light</item>
+    </style>
+</resources>
